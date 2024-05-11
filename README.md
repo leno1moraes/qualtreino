@@ -1,7 +1,6 @@
 # Qual Treino ?
 
-Já entrou num academia e fico se perguntando como "como fazer o meu treino de braços ou de pernas?"
-p
+Já entrou num academia e fico se perguntando como "como montar o meu treino de braços ou de pernas?"
 Pois bem, é só perguntar para o app, que já te responde imadiatamente
 
 
