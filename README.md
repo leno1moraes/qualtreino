@@ -19,5 +19,7 @@ Pois bem, é só perguntar para este app, que ele já te responde imadiatamente!
 
 ![image](https://github.com/leno1moraes/qualtreino/assets/47091156/3e3ffc6f-600a-4313-b3d7-b29f23347ecd)
 
+![image](https://github.com/leno1moraes/qualtreino/assets/47091156/d052a4c0-0b99-40b1-acda-a941ee317033)
+
 
 
